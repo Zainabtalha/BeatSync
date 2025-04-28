@@ -158,8 +158,6 @@ print(playlist)
 
 """**UI**"""
 
-!pip install streamlit
-
 import streamlit as st
 
 # Title of the app
